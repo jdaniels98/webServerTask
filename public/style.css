@@ -38,9 +38,21 @@ li:last-child {
       font-size: 29px;
   }
   
-  img {
+  .imgHome {
       display: block;
       margin-left: auto;
       margin-right: auto;
       width: 40%;
   }
+  .imgAbout {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.imgContact {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
